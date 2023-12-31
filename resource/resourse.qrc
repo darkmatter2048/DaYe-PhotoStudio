@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="resourse">
+    <file>develop.png</file>
+    <file>ad.png</file>
+    <file>logo.png</file>
+    <file>about.png</file>
+    <file>background.png</file>
+    <file>develop_btn.png</file>
+    <file>settings.png</file>
+    <file>Tools.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,47 @@
+Tools
+Setup
+About
+     Support
+Image processing
+Cutout
+Image compression
+Document scanning
+Form recognition
+Text recognition
+Clear zoom in
+Bitmap to vector
+Modify the dimensions
+Batch rename
+Format conversion
+ICO production
+Split GIFs
+Synthetic GIFs
+Batch printing
+Image stitching
+Image rotation
+AI Painter
+Crop the fillet
+Video processing
+Export frames
+Video compositing
+PDF tool
+Image to PDF
+PDF to picture
+PDF to Word
+PDF printer
+PDF rotation
+PDF splitting
+PDF Merge
+Add page numbers to the PDF
+Language
+Theme
+Window opacity
+Turn off window fade animation
+Play a tone when finished
+Note: Some settings will take effect after the software restarts
+Finish
+BackgroundImage:
+Dark
+Light
+Follow the system
+Delete the background image

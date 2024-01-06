@@ -1,6 +1,6 @@
 # DaYe PhotoStudio
 ## Download
-You can download the compiled distro from the Quark network disk [here](https://pan.quark.cn/s/a7ad8f5d450f).
+You can download the compiled distro from the Quark network disk [here](https://pan.quark.cn/s/6d1890485c69).
 ## Software features:
 - This program is completely free and requires no registration or login.
 - When it comes to privacy, everything is run 100% local. No network required to run the model, no data sent to the cloud.
@@ -32,8 +32,8 @@ You can download the compiled distro from the Quark network disk [here](https://
 ### Video processing：
 | Function           | Remark |
 |--------------------|--------|
-| Export frames      | None   |
-| Video compositing  | None   |
+| Export frames      | Only English or numeric paths are supported.   |
+| Video compositing  | Only English or numeric paths are supported.   |
 ### PDF tools:
 | Function                     | Remark |
 |------------------------------|--------|

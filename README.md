@@ -63,7 +63,7 @@ Then you'll need to download the required third-party libraries.We recommend tha
 pip install -r requirements.txt
 ```
 Once all the third-party libraries are installed, you will need to download the model file [from here](https://pan.quark.cn/s/e666deae4354). And move `.paddleocr` and `.paddlehub` to the `tools2` folder and `.u2net` to the `tools` folder.You can also delete the models you don't need to reduce the volume.
-- Once you have done that, you can start the project by running `dps.py`.
+- Once you have done that, you can start the project by running `DPS_Main.py`.
 ## Develop DaYe PhotoStudio
 ![develop](./resource/develop.png)
 Thank you so much for your support! Your support will help us to continuously improve and provide better services.

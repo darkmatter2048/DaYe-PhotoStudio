@@ -56,7 +56,7 @@ python -m venv myenv
 Then use an IDE such as Pycharm or vscode to open the directory where `myenv` is located to enter the environment.
 Once you're in the virtual environment, you'll need to update the pip first.
 ```commandline
-pip install --upgrade pip
+python -m pip install --upgrade pip
 ```
 Then you'll need to download the required third-party libraries.We recommend that you use Alibaba Cloud sources.You can run the `pip config set global.index-url http://mirrors.aliyun.com/pypi/simple` and `pip config set install.trusted-host mirrors.aliyun.com` operations to replace the original PIP with the source of the Alibaba Cloud instance.
 ```commandline
